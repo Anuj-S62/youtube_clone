@@ -18,7 +18,7 @@ Tech used in the app:
 
 App screenshots:
 
-<img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/18a41194-4b95-4dd1-b395-8c289065c29a" style="display: inline-block; margin: 10 auto; max-width: 300px">
+<img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/18a41194-4b95-4dd1-b395-8c289065c29a" width="200">
 <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/bc529b37-c5ef-44b7-90a8-c8077765f629" width="200">
  <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/a6144575-947f-4c68-a006-71d60a30f93c" width="200">
 
