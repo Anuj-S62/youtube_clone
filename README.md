@@ -18,21 +18,12 @@ Tech used in the app:
 
 App screenshots:
 
-* <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/abfc7317-fe2f-4ab1-8609-2dc98c013787" width="200">
+* <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/18a41194-4b95-4dd1-b395-8c289065c29a" width="200">
+<img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/bc529b37-c5ef-44b7-90a8-c8077765f629" width="200">
+ <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/a6144575-947f-4c68-a006-71d60a30f93c" width="200">
 
-* <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/abfc7317-fe2f-4ab1-8609-2dc98c013787.jpg"width="200">
- 
-  <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/06fdd1b2-31dd-4438-947b-59d721ecde03"width="200">
-  
-  <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/08e4ec99-ffc5-47e0-8f82-3420689945de"width="200">
-  
-  <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/11327fdf-0742-49f4-a28b-ead2655e8cf9"width="200">
-  
-  <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/3a52d570-3c95-45a6-8b7a-d30f787b7e8a"width="200">
-  
-  <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/9b2329b7-1813-4c63-b53c-6d06c5ff145f)"width="200">
-  
-  <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/e5495f16-2326-4092-a890-f920430d74f4"width="200">
-  
-  <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/f1a75629-8356-4922-9a99-b739ce0ef50a"width="200">
-
+ <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/cf73f57d-a3d6-4910-97c8-ea96c5c10ba9" width="200">
+ <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/7f08c414-4adb-47bd-93b0-c84cf8b40709" width="200"> 
+ <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/6cd058f6-8642-478d-9f21-5f0f1e3c8708" width="200">
+ <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/efe1d1e8-5fcf-43f3-900b-085e8ec569d0" width="200"> 
+ <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/6d9f80e7-0ada-44a0-a212-942a567d544b" width="200">
