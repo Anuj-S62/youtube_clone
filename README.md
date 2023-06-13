@@ -11,3 +11,11 @@ Features:
   
   Save any video to the playlist
   
+ 
+Tech used in the app:
+
+  Flutter, Cloud Firestore, YouTube API
+
+App screenshots:
+
+  
