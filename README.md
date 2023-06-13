@@ -18,7 +18,7 @@ Tech used in the app:
 
 App screenshots:
 
-* <img src="https://user-images.githubusercontent.com/75980718/158076915-c94f8b8e-fbf9-44b2-98c3-527769567a4c.png" width="200">
+* <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/abfc7317-fe2f-4ab1-8609-2dc98c013787" width="200">
 
 * <img src="https://github.com/Anuj-S62/youtube_clone/assets/96018337/abfc7317-fe2f-4ab1-8609-2dc98c013787.jpg"width="200">
  
